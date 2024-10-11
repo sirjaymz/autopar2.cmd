@@ -1,0 +1,9 @@
+del autopar2.log
+del getpars.bat
+del getrars.bat
+del par2file.cmd
+del par2file.lst
+del par2filevar.cmd
+del rarfile.cmd
+del rarfile.lst
+del rarfilevar.cmd
